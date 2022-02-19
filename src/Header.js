@@ -6,8 +6,8 @@ function Header() {
     <div className="header">
 
       <img src={img} alt='' className='header--image'/>
-        <h1 className='header--title'>hello form header</h1>
-        <h1 className='header--project'>Header Component</h1>
+        <h1 className='header--title'>Meme Generator App</h1>
+        <h1 className='header--project'>zitandeveloper@gmail.com</h1>
     </div>
   )
 }
